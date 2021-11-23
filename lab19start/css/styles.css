@@ -1,0 +1,14 @@
+
+.page-content .mdl-card {
+    margin: 1em;
+}
+
+.animLoading {
+    display: none;
+}
+
+/* map element needs a styled size otherwise it doesnt appear at all */
+#map {
+    height: 600px;
+    width:  700px
+}   
